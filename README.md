@@ -4,7 +4,7 @@ Este repositorio contiene una colección de proyectos de automatización desarro
 
 ## Proyectos
 
-### Check Leaked Emails
+### :black_nib: Check Leaked Emails
 
 **Descripción:**
 (Próximamente)
@@ -15,7 +15,7 @@ Este repositorio contiene una colección de proyectos de automatización desarro
 **Archivos Principales:**
 - Próximamente
 
-### Convert PNG to JPG
+### :camera: Convert PNG to JPG
 
 **Descripción:**
 Este proyecto automatiza la conversión de imágenes de formato PNG a JPG utilizando la biblioteca Pillow en Python.
